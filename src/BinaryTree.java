@@ -3,7 +3,6 @@
 /**
  * 
  * @author Matt Boutell and <<<YOUR NAME HERE>>>.
- * @param <T>
  */
 
 public class BinaryTree {

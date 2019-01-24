@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * @author Matt Boutell
  */
-public class Testing {
+public class TestPreorderBuildTree {
 
 	private static int totalPoints = 0;
 	private static int makeTreePoints = 0;
